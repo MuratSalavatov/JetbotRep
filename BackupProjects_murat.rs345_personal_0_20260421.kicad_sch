@@ -1,0 +1,238 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "f7116ad6-3b0a-414c-8c43-3dc40ec3f51b")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 30.48 49.53)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "01e4468d-1168-4597-88ee-9d4a518ba4f1")
+		(property "Sheetname" "Peripheral"
+			(at 30.48 48.8184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Peripheral.kicad_sch"
+			(at 30.48 53.9246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BackupProjects_murat.rs345_personal_0_20260421"
+				(path "/f7116ad6-3b0a-414c-8c43-3dc40ec3f51b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 58.42)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "84f365b9-ba91-4c19-bf97-9783557a49f9")
+		(property "Sheetname" "Connectivity"
+			(at 30.48 57.7084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connectivity.kicad_sch"
+			(at 30.48 62.8146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BackupProjects_murat.rs345_personal_0_20260421"
+				(path "/f7116ad6-3b0a-414c-8c43-3dc40ec3f51b"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 22.86)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8b2b7a36-8b0a-4761-94d9-493529ebcd0b")
+		(property "Sheetname" "MCU"
+			(at 30.48 22.1484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 30.48 27.2546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BackupProjects_murat.rs345_personal_0_20260421"
+				(path "/f7116ad6-3b0a-414c-8c43-3dc40ec3f51b"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 40.64)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "edb1dec2-18bd-4f14-bd88-7d6150fd6166")
+		(property "Sheetname" "Motor_control"
+			(at 30.48 39.9284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Motor_control.kicad_sch"
+			(at 30.48 45.0346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BackupProjects_murat.rs345_personal_0_20260421"
+				(path "/f7116ad6-3b0a-414c-8c43-3dc40ec3f51b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 31.75)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ef286cc0-b2c8-4a8b-98c7-5684ea9ce214")
+		(property "Sheetname" "power_lines"
+			(at 30.48 31.0384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_lines.kicad_sch"
+			(at 30.48 36.1446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BackupProjects_murat.rs345_personal_0_20260421"
+				(path "/f7116ad6-3b0a-414c-8c43-3dc40ec3f51b"
+					(page "2")
+				)
+			)
+		)
+	)
+)
